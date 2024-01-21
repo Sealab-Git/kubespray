@@ -9,7 +9,7 @@ You can get your invite [here](http://slack.k8s.io/)
 - **Highly available** cluster
 - **Composable** (Choice of the network plugin for instance)
 - Supports most popular **Linux distributions**
-- **Continuous integration tests**
+- **Continuous integration tessdfts**
 
 ## Quick Start
 
